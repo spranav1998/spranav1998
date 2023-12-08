@@ -1,6 +1,6 @@
 # **👋 Hi, I’m @spranav1998**
 
-I'm a passionate ML/DL/AI enthusiast with 10 months of experience working as an ML Engineer. I have a strong interest in Deep Learning, Natural Language Processing, and Computer Vision. I'm constantly learning and exploring new advancements in these fields.
+I'm a passionate ML/DL/AI enthusiast with 1 year and 2 months of experience working as an ML Engineer. I have a strong interest in Deep Learning, Natural Language Processing, and Computer Vision. I'm constantly learning and exploring new advancements in these fields.
 
 **Projects I have Done:**
 
